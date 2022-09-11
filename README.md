@@ -1,6 +1,9 @@
+<div align="center">
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojojojocho&show_icons=true&theme=gruvbox)
+
+#
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojojojocho&layout=compact&theme=gruvbox)
 
@@ -19,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
