@@ -1,5 +1,5 @@
 <div align="center">
-Hi there 👋
+안녕하세영 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojojojocho&show_icons=true&theme=gruvbox)
 
