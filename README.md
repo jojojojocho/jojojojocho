@@ -5,7 +5,7 @@
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojojojocho&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojojojocho&layout=compact&theme=radical)
 
 
 <!--
